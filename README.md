@@ -1,6 +1,6 @@
-<h1 align="center">
-  💻Página de login e cadastro
-</h1>
+<h2 align="center">
+ Página de login e cadastro
+</h2>
 
 ![Demonstração do site](/login.png)
 
