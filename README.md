@@ -4,6 +4,5 @@
 
 ![Demonstração do site](/login.png)
 
-Você pode acessar o website através do link abaixo.
+Você pode acessar o website clicando <a href="https://pedromedeiros1008.github.io/bikecraft/" target="" alt="">aqui</a>. 🚀
 
-<a href="https://pedromedeiros1008.github.io/login-page/" target="_blank" alt="">Visitar projeto</a>
