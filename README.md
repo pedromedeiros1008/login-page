@@ -6,4 +6,4 @@
 
 Você pode abrir o website através do link abaixo.
 
-<a href="https://pedromedeiros1008.github.io/login-page/" target="__blank" alt="">Visitar projeto</a>
+<a href="https://pedromedeiros1008.github.io/login-page/" target="_blank" alt="">Visitar projeto</a>
